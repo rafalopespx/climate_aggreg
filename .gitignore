@@ -1,3 +1,15 @@
-## Files to Ignore
+.git/objects/pack/pack-9a65ebdef9bfbf64bcdae122081ebfddbca23623.pack
 .Rhistory*
+.Rproj.user
 .Rproj.user*
+## Files to Ignore
+Data/2000_t2m.grib
+Data/2001_t2m.grib
+Data/2002_t2m.grib
+Data/2003_t2m.grib
+Data/2004_t2m.grib
+Data/2005_t2m.grib
+Data/2006_t2m.grib
+Data/2007_t2m.grib
+Data/2008_t2m.grib
+Data/2009_t2m.grib
