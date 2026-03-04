@@ -100,7 +100,7 @@ aggreg_cruts_era5 |>
   labs(x = "Temperature range\n[°C]", y = "Count", color = "dataset", 
        fill = "dataset",
        title = "Comparing CRUTS x ERA5Land", 
-       subtitle = "Overall distribution shown in gray")+
+       subtitle = "Overall distribution for each region of Brazil during 2000 - 2024")+
   theme_minimal()+
   facet_wrap(~name_region, ncol = 1, scales = "free_y")
 
